@@ -116,7 +116,7 @@ a{
   margin: 0 auto;
 
   /* подняли чуть выше, чтобы не прилипало к низу картинки */
-    padding-top: clamp(72px, 12vh, 150px);
+    padding-top: clamp(72px, 12vh, 200px);
   padding-bottom: 50px;
 
   text-shadow: 0 10px 30px rgba(0,0,0,.35);
